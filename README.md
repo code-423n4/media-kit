@@ -14,3 +14,14 @@
 - Use the Code4rena logo (or part of our logo) in a way that implies Code4rena’s endorsement or sponsorship of a project, service, product or individual
 - Alter the Code4rena logo in any way, including colors 
 - Use the Code4rena logo pr logomark as part of, or in combination with another logo for any purpose
+
+____
+
+## Fonts
+
+Satoshi  
+[available here](https://www.fontshare.com/fonts/satoshi)
+
+DM Sans  
+[available here](https://fonts.google.com/specimen/DM+Sans)
+
